@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(57): warning C4477: 'printf' : 格式字串 '%f' 需要 'double' 類型的引數，但 variadic 引數 1 的類型為 'std::chrono::duration<double,std::ratio<1,1>>'
+  正在產生程式碼
+  2 of 594 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  Demo.vcxproj -> C:\Users\Hu Hua\Desktop\TreviTechnologyTest\x64\Release\Demo.exe
+  Demo.vcxproj -> C:\Users\Hu Hua\Desktop\TreviTechnologyTest\x64\Release\Demo.pdb (Full PDB)
